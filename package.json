@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "discord-interactions": "^4.3.0"
+  },
+  "devDependencies": {
+    "@types/node": "^24.2.1"
+  }
+}
